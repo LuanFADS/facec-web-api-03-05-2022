@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3aXn8ugM6nAlawW/dGnnidV89uCclJVqRYkGLX3SKEUrlCLp/206EXFbRuJ72UXciEM1zphwTi3Dv1tSyzdfcw==",
+  "dgSpecHash": "LIb2+MeuPJLsNXysvEojcSuN2BJdaMCvWPGsfsMO0f1rgbRYBHk58TX6MuO8N4LlQij+UDs130v95MeEKIKkTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juliano.maciel\\source\\repos\\Facec.Web.Api\\Facec.Servicos\\Facec.Servicos.csproj",
+  "projectFilePath": "C:\\Users\\facec.lab01\\Desktop\\facec-clientes-webapi\\Facec.Servicos\\Facec.Servicos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
